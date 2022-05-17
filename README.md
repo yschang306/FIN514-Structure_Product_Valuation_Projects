@@ -1,4 +1,4 @@
-# FIN514: Structure Product Valuation
+# FIN514: Structure Product Valuation Project
 Hello there!\
 This repository holds my valuation projects done during the period of FIN514 Complex Derivative Securities course.
 
