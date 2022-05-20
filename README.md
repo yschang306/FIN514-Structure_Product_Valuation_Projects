@@ -12,12 +12,12 @@ This repository holds my valuation projects done during the period of FIN514 Com
   * Product: Auto Callable Yield Notes Linked to the S&P500® Index
   * Perform valuation using Explicit Difference Method
   * Conduct Volatility Sensitive Analysis and Stability Analysis
-  * Examinate Non-linearity error and convergences
+  * Examine Non-linearity error and convergences
 * [Crank-Nicolson Method](https://github.com/yschang306/FIN514-Structure_Product_Valuation/blob/main/FIN514_Project_Code/Project2.LIY_CHAOW_CHANGY_Python%20Code_CN.ipynb)
   * Product: Auto Callable Yield Notes Linked to the S&P500® Index
   * Perform valuation using Crank-Nicolson Method
   * Conduct Volatility Sensitive Analysis
-  * Examinate Non-linearity error and convergences
+  * Examine Non-linearity error and convergences
 * [Monte Carlo Method](https://github.com/yschang306/FIN514-Structure_Product_Valuation/blob/main/FIN514_Project_Code/Project%203.LIY_CHAOW_CHANGY_Python%20Code_Monte%20Carlo.ipynb)
   * Product: Auto Callable Yield Notes Linked to the Lesser Performing of the Russell 2000® Index and the S&P 500® Index
   * Perform valuation using Monte Carlo Method
