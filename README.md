@@ -7,7 +7,7 @@ This repository holds my valuation projects done during the period of FIN514 Com
   * Product: Auto-Callable Contingent Coupon Barrier Notes with Memory Coupon Linked to the Nasdaq-100 Index®
   * Perform valuation using Binomial Tree with Leisen-Reimer Model
   * Conduct Volatility Sensitive Analysis
-  * Examinate Non-linearity error and convergences
+  * Examine Non-linearity error and convergences
 * [Explicit Difference Method](https://github.com/yschang306/FIN514-Structure_Product_Valuation/blob/main/FIN514_Project_Code/Project2.LIY_CHAOW_CHANGY_Python%20Code_ED.ipynb)
   * Product: Auto Callable Yield Notes Linked to the S&P500® Index
   * Perform valuation using Explicit Difference Method
